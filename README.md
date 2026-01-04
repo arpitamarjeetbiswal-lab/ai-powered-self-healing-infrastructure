@@ -79,3 +79,10 @@ This project demonstrates how AI can be applied to system reliability engineerin
 
 ## 👨‍💻 Author
 Arpit Amarjeet Biswal
+## 📸 Sample Output
+
+### 📊 System Metrics & Anomaly Detection
+![System Metrics Graph](screenshots/graph.png)
+
+### 🔧 Self-Healing Status
+![Self Healing Output](screenshots/self_healing_output.png)
