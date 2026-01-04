@@ -44,8 +44,7 @@ aI_driven_self_healing_infrastructure/
 ├── README.md
 └── .git/
 
-yaml
-Copy code
+
 
 ---
 
