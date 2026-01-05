@@ -86,3 +86,11 @@ Arpit Amarjeet Biswal
 
 ### 🔧 Self-Healing Status
 ![Self Healing Output](screenshots/self_healing_output.png)
+
+## 📸 UI Demo
+
+### 🔍 Automatic Demo with Anomaly Detection
+![Demo Graph](screenshots/ui_demo_graph.png)
+
+### 🧠 Insights, Upload & Re-run
+![User Interaction](screenshots/ui_interactions.png)
