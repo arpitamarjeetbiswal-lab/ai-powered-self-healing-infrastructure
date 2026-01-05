@@ -44,8 +44,7 @@ aI_driven_self_healing_infrastructure/
 ├── README.md
 └── .git/
 
-yaml
-Copy code
+
 
 ---
 
@@ -79,6 +78,7 @@ This project demonstrates how AI can be applied to system reliability engineerin
 
 ## 👨‍💻 Author
 Arpit Amarjeet Biswal
+
 ## 📸 Sample Output
 
 ### 📊 System Metrics & Anomaly Detection
@@ -87,6 +87,7 @@ Arpit Amarjeet Biswal
 ### 🔧 Self-Healing Status
 ![Self Healing Output](screenshots/self_healing_output.png)
 
+
 ## 📸 UI Demo
 
 ### 🔍 Automatic Demo with Anomaly Detection
@@ -94,3 +95,4 @@ Arpit Amarjeet Biswal
 
 ### 🧠 Insights, Upload & Re-run
 ![User Interaction](screenshots/ui_interactions.png)
+
